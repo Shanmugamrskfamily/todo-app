@@ -36,4 +36,4 @@ This project is licensed under the MIT License. See the [LICENSE](./LICENSE) fil
 
 ## Credits
 
-- Developer: [Shanmugam](https://github.com/Shanmugamrskfamily)
+- Developer: [Shanmugam](https://github.com/shanmugamrskfamily)
